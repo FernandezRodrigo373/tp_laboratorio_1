@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1587057655 source:c:\users\rodoo\onedrive\escritorio\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"rodrigof.h"
+
+1587057441 c:\users\rodoo\onedrive\escritorio\calculadora\rodrigof.h
+
+1587059495 source:c:\users\rodoo\onedrive\escritorio\calculadora\rodrif.c
+	<stdio.h>
+	<stdlib.h>
+	"rodrigof.h"
+
