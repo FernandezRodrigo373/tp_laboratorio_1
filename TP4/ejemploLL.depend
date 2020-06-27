@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1593013405 source:c:\users\fred\desktop\pc\utn\ejemploll\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593011350 c:\users\fred\desktop\pc\utn\ejemploll\linkedlist.h
+
+1593013550 source:c:\users\fred\desktop\pc\utn\ejemploll\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"autos.h"
+
+1593013405 source:c:\users\fred\desktop\pc\utn\ejemploll\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"autos.h"
+	"parser.h"
+
+1592081602 c:\users\fred\desktop\pc\utn\ejemploll\employee.h
+	"LinkedList.h"
+
+1593009879 c:\users\fred\desktop\pc\utn\ejemploll\parser.h
+
+1593009185 source:c:\users\fred\desktop\pc\utn\ejemploll\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"autos.h"
+	"controller.h"
+
+1593010292 c:\users\fred\desktop\pc\utn\ejemploll\controller.h
+
+1593007091 source:c:\users\fred\desktop\pc\utn\ejemploll\employee.c
+	"Employee.h"
+	"LinkedList.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1592079394 source:c:\users\fred\desktop\pc\utn\ejemploll\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1592079394 c:\users\fred\desktop\pc\utn\ejemploll\utn.h
+
+1593012304 source:c:\users\fred\desktop\pc\utn\ejemploll\autos.c
+	"autos.h"
+	"LinkedList.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1593009550 c:\users\fred\desktop\pc\utn\ejemploll\autos.h
+	"LinkedList.h"
+
+1593296617 source:c:\users\fred\desktop\pc\utn\proglab\ejemploll\autos.c
+	"autos.h"
+	"LinkedList.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"utn.h"
+
+1593294424 c:\users\fred\desktop\pc\utn\proglab\ejemploll\autos.h
+	"LinkedList.h"
+
+1593211198 c:\users\fred\desktop\pc\utn\proglab\ejemploll\linkedlist.h
+
+1593281839 source:c:\users\fred\desktop\pc\utn\proglab\ejemploll\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593296991 source:c:\users\fred\desktop\pc\utn\proglab\ejemploll\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"autos.h"
+
+1593287256 c:\users\fred\desktop\pc\utn\proglab\ejemploll\controller.h
+
+1593009185 source:c:\users\fred\desktop\pc\utn\proglab\ejemploll\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"autos.h"
+	"controller.h"
+
+1592079394 source:c:\users\fred\desktop\pc\utn\proglab\ejemploll\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1592079394 c:\users\fred\desktop\pc\utn\proglab\ejemploll\utn.h
+
+1593293296 source:c:\users\fred\desktop\pc\utn\proglab\ejemploll\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"autos.h"
+	"parser.h"
+	"string.h"
+
+1593009879 c:\users\fred\desktop\pc\utn\proglab\ejemploll\parser.h
+
